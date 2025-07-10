@@ -41,7 +41,7 @@ This transcript is a wide-ranging conversation exploring themes of technological
 ### 00:13:00 – 00:16:00 | Middle Class, Technology, and Societal Futures
 - The fate of the middle class in a technologically advanced society.
 - The dual potential of technology for good and harm.
-- Bitcoin, inflation, and the concept of "quantitative decentralization."
+- Bitcoin, inflation, and the concept of "quantitative recentralization."
 > "I think everything we're experiencing from a technology perspective has the ability to achieve both the 10,000 beautiful visions and the 10,000 horrible visions."
 
 ### 00:16:00 – 00:19:00 | Index Funds, Market Efficiency, and Socialization of Risk
